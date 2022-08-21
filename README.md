@@ -10,7 +10,12 @@
 
 👅 English level: Advanced
 
-[![LinkedIn](https://img.shields.io/badge/-linkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/andrewhrebenozhko/)
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/andrewhrebenozhko/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
+<a href="https://t.me/wolbu"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" title="Telegram" /></a>
+</p>
 
 
 <!--
