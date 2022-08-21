@@ -10,6 +10,8 @@
 
 👅 English level: Advanced
 
+[![LinkedIn](https://img.shields.io/badge/-linkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/andrewhrebenozhko/)
+
 
 <!--
 **Wolbu/wolbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
